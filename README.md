@@ -1,4 +1,4 @@
-This repository is moved to: https://github.com/spark-mv/dash.js
+This repository is moved to: https://github.com/spark-mv/cdn
 
 # [HolaCDN: Speeding up Video Delivery] (https://github.com/hola/cdn/blob/master/install.md)
 
